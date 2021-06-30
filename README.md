@@ -5,3 +5,4 @@ Hi, This is zuo from China, who now studying in Kyushu University, Japan, as an 
 These are my new changes!
 I love Panda!
 THen?
+How does the conflicts resist? 
